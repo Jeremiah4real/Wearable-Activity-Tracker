@@ -75,7 +75,7 @@ The FPGA fabric runs the camera pipeline, DMA controller, hardware accelerator, 
 
 ## Author
 
-**Jeremiah K*
+**Jeremiah K**
 [github.com/Jeremiah4real](https://github.com/Jeremiah4real)
 
 ---
